@@ -14,8 +14,8 @@ import requests
 import os
 from docx import Document
 
-subscription_key = "xGg08oQsylu13CSe2C2VBDkcH6kDFteGURaJlBEqalmdG1jE9SlKJQQJ99AKACHYHv6XJ3w3AAAbACOG4ZEa"
-endpoint = "https://api.cognitive.microsofttranslator.com/"
+subscription_key = "*****"
+endpoint = "******"
 location = "eastus2"
 language_destination = 'pt-br'
 
